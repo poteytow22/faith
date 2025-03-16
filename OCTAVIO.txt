@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My ICT Portfolio</title>
+  
+  <style>
+    /* Basic reset */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #fce1f3; /* Light pink background */
+      color: #6c4f94; /* Purple text */
+      line-height: 1.6;
+      padding: 20px;
+    }
+
+    header {
+      text-align: center;
+      background-color: #f9a8d4; /* Light pink header */
+      padding: 20px;
+      border-radius: 10px;
+    }
+
+    header h1 {
+      font-size: 2.5rem;
+      color: #fff;
+    }
+
+    nav {
+      text-align: center;
+      margin: 20px 0;
+    }
+
+    nav ul {
+      list-style-type: none;
+    }
+
+    nav ul li {
+      display: inline;
+      margin: 0 15px;
+    }
+
+    nav ul li a {
+      text-decoration: none;
+      color: #6c4f94;
+      font-weight: bold;
+      font-size: 1.2rem;
+    }
+
+    nav ul li a:hover {
+      color: #f9a8d4; /* Hover effect for links */
+    }
+
+    section {
+      margin-bottom: 40px;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    h2 {
+      color: #f9a8d4; /* Pink for section titles */
+      margin-bottom: 10px;
+    }
+
+    ul {
+      list-style-type: disc;
+      padding-left: 20px;
+    }
+
+    input, textarea {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #f9a8d4;
+      border-radius: 8px;
+      margin-bottom: 10px;
+    }
+
+    button {
+      background-color: #6c4f94;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 1rem;
+    }
+
+    button:hover {
+      background-color: #f9a8d4;
+      color: #6c4f94;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 14px;
+      color: #6c4f94;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to My ICT Portfolio</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#about">About Me</a></li>
+      <li><a href="#achievements">Achievements</a></li>
+      <li><a href="#questions">Questions</a></li>
+      <li><a href="#collaborations">Collaborations</a></li>
+      <li><a href="#highlight">Highlight</a></li>
+      <li><a href="#coming">Coming Soon</a></li>
+      <li><a href="#reflection">Reflection</a></li>
+      <li><a href="#thankyou">Thank You</a></li>
+    </ul>
+  </nav>
+
+  <section id="about">
+  <h2>About the Creator</h2>
+  <img src="hayst.jpg" alt="Lowaine" style="width: 250px; border-radius: 50%; margin-bottom: 20px; display: block; margin-left: auto; margin-right: auto;">
+
+  <p>Hello there! I can't believe this school year is almost at the end. I survived again, but this time barely. The first and second weeks of March were a disaster for me, that's why, hehe. Well, it's me again, Loraine Octavio, from 9 - Faith, presenting what I've learned this school year. But in this part of the portfolio, I just want to talk about my achievements, ups and downs, more about my life, and not anything else. Coding is one of the things I DON'T look forward to when I wake up in the morning. Why? Maybe because coding isn't for me. Well, the sound of it is so cool. When I hear the word "coding," I imagine people doing it, and it sounds so cool. But when I do it, I'm having doubts about whether my life decisions are correct, hihi. Don't worry because I'm trying my best to learn a lot about this subject, huhu. For some people, math is the hardest subject they have encountered, but for me, it's I.C.T. Those three letters (acronym) make my heart beat faster, but hopefully, these things will change. And I'm looking forward to that.</p>
+  <table style="margin: 0 auto; border-collapse: collapse; width: 80%; text-align: center;">
+    <thead>
+      <tr>
+        <th>Ramdon Song from my playlist</th>
+        <th>Favorite Food</th>
+        <th>Favorite Hobbies</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <p><strong>Song: </strong> "Backburner" by Niki </p>
+          <audio controls>
+            <source src="NIKI -  Backburner (Official Lyric Video).mp3" type="audio/mp3">
+          </audio>
+        </td>
+        <td>
+          <!-- Image for Food -->
+          <img src="BeFunky-collage.jpg" alt="food" style="width: 200px; height: auto; border-radius: 8px;">
+        </td>
+        <!-- Hobbies Section -->
+        <td>
+          <!-- Image for Hobbies -->
+          <img src="hobbies.jpg" alt="Hobbies" style="width: 200px; height: auto; border-radius: 8px;">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+</section>
+
+  <section id="achievements">
+    <h2> Achivements </h2> 
+    <p>  Before this school year started, I thought I wouldn’t survive because ALL of my friends were in different sections, and I hate being alone. Of course, I was scared. I didn’t know what would happen.
+
+    Thankfully, I made new friends (I actually don’t even know how that happened). Quick story: When I was in Grade 7, the first two weeks were miserable for me. I would wake up in the morning and not want to go to school because I didn’t have any friends and didn’t know how to communicate properly. That gave me anxiety. So, when I saw that I had no one to talk to in our classroom this year, I panicked.
+
+    But the strange thing is, I was still able to make friends despite my past experiences. No one knows how thankful I am to have those friends who helped me get through this school year. That’s my BIGGEST achievement, and I just wanted to brag about it—hehe.
+
+    Also, my grades improved! Unlike in previous years when I failed almost all of my quizzes because I was too lazy to study, now I can proudly say that I passed 90% of my quizzes this WHOLE school year.
+
+    Lastly, my leadership skills have grown even more since I was elected class president. At first, I was hesitant and afraid that my classmates wouldn’t vote for me, but shockingly, ALL of them were in favor of me. #ILOVEMYLIFE
+  `</p>
+  </section>
+
+  <section id="questions">
+    <h2>Questions for You</h2>
+    <form id="question-form">
+      <label for="name">Your Name:</label><br>
+      <input type="text" id="name" name="name" required><br><br>
+
+      <label for="question">Your Thoughts or Feedback:</label><br>
+      <textarea id="question" name="question" rows="4" required></textarea><br><br>
+
+      <button type="submit">Submit</button>
+    </form>
+    <div id="form-message"></div>
+  </section>
+
+<section id="collaborations">
+  <h2>Collaborations</h2>
+  <p>During this school year, our I.C.T educator made a collab with different subject that made our life much easier(thankupomiss). As much I like to add all of them, It's incomplete and sadly no documentations:(. So let me just share some highlights hihi.</p>
+  <table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
+    <thead>
+      <tr>
+        <th style="text-align: center; padding: 10px; font-size: 1.2rem; color: #6c4f94;">Project Title</th>
+        <th style="text-align: center; padding: 10px; font-size: 1.2rem; color: #6c4f94;">Video</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align: center; padding: 10px;">
+          <strong>V-POP</strong>
+          <p style="color: #6c4f94;">This is our FIRST SECTION CONTEST. And,I can say that this is one of the events that made our section's relationship much stronger. All of the subjects collaborated on this, so it was actually a lot of pressure for us. But the memories are so strong that we didn’t notice all 12 subjects relied on this, hehe.</p>
+        </td>
+        <td style="text-align: center; padding: 10px;">
+          <video width="320" height="240" controls>
+            <source src="vpop.mp4" type="video/mp4">
+          </video>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; padding: 10px;">
+          <strong>Festival Dance</strong>
+          <p style="color: #6c4f94;">As far as I remember, our teacher gave us time to practice for this, which is our performance task for another subject. I just wanted to share it with you guys hehe. Notice how we reused the palda/skirt part in our VPOP for our festival dance—very demure!</p>
+        </td>
+        <td style="text-align: center; padding: 10px;">
+          <video width="320" height="240" controls>
+            <source src="festial.mp4" type="video/mp4">
+          </video>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; padding: 10px;">
+          <strong>One Act Play Preparation</strong>
+          <p style="color: #6c4f94;">Sadly, this will be the last class performance of grade 9-faith school year 2024-2025. If you think about it,  you might feel joy and relief because it's the last performance and we can get to rest, right? but for me, some parts shattered. Since I don't get to see these people anymore, the thought of that makes me so sad. :((</p>
+        </td>
+         <td style="text-align: center; padding: 10px;">
+          <video width="320" height="240" controls>
+            <source src="prac.mp4" type="video/mp4">
+          </video>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+ <section id="highlight">
+    <h2>Faith x Family</h2>
+    <p>I want to share with you guys yhis unexpected event that happened this school year. 2SECTIONS JUST COLLAB. I just want to thank MAPEH CLUB for making this events happened. Well, event is when the 2 sections collab with each other to perform a HIPHOP DANCE/STREETDANCE, and each group should
+have 20 members, so faith gave 10 members so as the family. The reason why I want to share this because it's also one of my dream. To perform infront of Lpsci doing this kind of performance. Our practices is full of memories and laughter that I would definately cherish forever. You know what's more funny? the fact that the day of our performance
+is also the released of the 3rd quarter card, I don't know what emotion/s should I have at that time HAHAHAHA</p>
+            <video width="320" height="240" controls>
+            <source src="collab.mp4" type="video/mp4">
+          </video>
+  </section>
+
+ <section id="coming">
+  <h2> Coming Soon</h2>
+<h2 align="center"> One Act Play </h2>
+
+  <p>One Act Play is our last project as a class, and I want to share/highlight this. It is a musical play, and I'm so happy we get to do this stuff.  </p>
+  <table style="margin: 0 auto; border-collapse: collapse; width: 80%; text-align: center;">
+    <thead>
+      <tr>
+        <th>DP Blast</th>
+        <th>Poster</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+         <img src="OCTAVIO.png" alt="dp blast" style="width: 200px; height: auto; border-radius: 8px;">
+        </td>
+        <td>
+          <img src="tto.jpg" alt="poster" style="width: 200px; height: auto; border-radius: 8px;">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+</section>
+
+
+  <section id="reflection">
+    <h2>Reflection</h2>
+    <p> I still can;t believe that this is the last reflection i will do in this school year in ict:(. I will definately miss the stress I encountered and  crash out stuff, all the things I did just to learn I.C.T,
+I'm looking forward to more of these stuff next year, and HOPEFULLY just HOPEFULLY, the lesson/s are much easier hehe.
+</section>
+
+  <section id="thankyou">
+    <h2>Thank You!</h2>
+    <p>Good Day po Ms. I just want to gave a small appreciation for your dedications po throughout this school year. Words can't express how thankfull I am po to have you as our I.C.T teacher. All of our considerations, free time, 
+practice time, PWEDENG KUMAIN SA LESSON time, HANDS-ON tme, QUIZ time, ASKING FOR DEADLINE EXTENTIONS interactions are the things I won't forget. Thank you so much po for all of that. I hope the lower batches get to experience your teaching style po. I will Miss you po Ms.U:))) </p>
+  </section>
+
+  <footer>
+    <p>Created by LORAINE OCTAVIO@2025</p>
+  </footer>
+
+  <!-- Internal JavaScript -->
+<script>
+ // Handling form submission
+    const form = document.getElementById('question-form');
+    form.addEventListener('submit', function(e) {
+      e.preventDefault();
+      
+      const name = document.getElementById('name').value;
+      const question = document.getElementById('question').value;
+      
+      const formMessage = document.getElementById('form-message');
+      formMessage.innerHTML = `<p>Thank you, ${name}, for your feedback!</p>`;
+      
+      // Clear form fields
+      form.reset();
+    });
+  </script>
+</body>
+</html>
